@@ -34,12 +34,7 @@ Make sure all .xlsx files are inside the Tourism Dataset folder.
 The app assumes tourism_app.py is in the parent folder of Tourism Dataset.
 
 🧠 Tech Stack :
-Python
-Streamlit
-scikit-learn
-XGBoost
-Pandas, NumPy
-Seaborn, Matplotlib
+Python, Streamlit, scikit-learn, XGBoost, Pandas, NumPy ,Seaborn, Matplotlib
 
 
 
